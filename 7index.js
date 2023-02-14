@@ -1,3 +1,5 @@
+//DONE
+
 const parseDate = str => {
    return str.split(':').reduce((acc,time) => (60 * acc) + +time);
 }

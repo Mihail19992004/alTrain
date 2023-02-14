@@ -1,3 +1,5 @@
+//NEED TESTS
+
 const func = (studentCount, variantCount, nomerRyadaOfPetya, sideOfPetya) => {
     const orderVariants = cyrcleVarian(variantCount, studentCount - 1)
     const placeOfPetya =  nomerRyadaOfPetya - 1

@@ -1,3 +1,5 @@
+//DONE
+
 const func = (str) => {
     return str.split('').map((e, index) => {
         const ns = str
